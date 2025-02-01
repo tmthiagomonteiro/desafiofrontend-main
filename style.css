@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(213, 206, 179);
+}
+
+table {
+    border: none;
+    border-collapse: collapse;
+    width: 500px;
+    padding: 30px;
+}
+
+th, td {
+    border: none;
+}
+
+td {
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.values {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }/* Path: style.css */
+
+
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
